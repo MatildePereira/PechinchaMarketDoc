@@ -1,0 +1,22 @@
+digraph "PechinchaMarket/PechinchaMarket"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_274cc973ec2d54017671f9a5a1a9629c {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="PechinchaMarket", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_274cc973ec2d54017671f9a5a1a9629c.html",tooltip=""]
+  subgraph clusterdir_e202b849b58fa97ff6e569aba69edfa7 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_e202b849b58fa97ff6e569aba69edfa7.html",tooltip=""]
+    dir_e202b849b58fa97ff6e569aba69edfa7 [shape=plaintext, label="PechinchaMarket"];
+  dir_e7ecda2297f5a48b2d303b941fe1c881 [label="Areas", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e7ecda2297f5a48b2d303b941fe1c881.html",tooltip=""];
+  dir_3f4fa9be80f7e5b88924105e43bf2903 [label="Controllers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3f4fa9be80f7e5b88924105e43bf2903.html",tooltip=""];
+  dir_0ebf390c8f0129ddd7a23ed9ae954599 [label="Migrations", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_0ebf390c8f0129ddd7a23ed9ae954599.html",tooltip=""];
+  dir_e08575adcbb90bbfa1cc0a59ff02b971 [label="Models", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e08575adcbb90bbfa1cc0a59ff02b971.html",tooltip=""];
+  dir_8ef46bffa431f3192352433147c5cee4 [label="obj", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_8ef46bffa431f3192352433147c5cee4.html",tooltip=""];
+  dir_6dbb7c76c8dea20bf5279deb1c55d5e7 [label="Services", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_6dbb7c76c8dea20bf5279deb1c55d5e7.html",tooltip=""];
+  dir_91092c9178b1a3bd0b12f14d4ce44abf [label="wwwroot", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_91092c9178b1a3bd0b12f14d4ce44abf.html",tooltip=""];
+  }
+  }
+}
