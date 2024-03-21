@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.10.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>My Project: PechinchaMarket.Services.EmailSender Class Reference</title>
+<title>My Project: PechinchaMarket.ScheduledJobs Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -73,28 +73,61 @@ $(function() {
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><a class="el" href="namespace_pechincha_market.html">PechinchaMarket</a></li><li class="navelem"><a class="el" href="namespace_pechincha_market_1_1_services.html">Services</a></li><li class="navelem"><a class="el" href="class_pechincha_market_1_1_services_1_1_email_sender.html">EmailSender</a></li>  </ul>
+<li class="navelem"><a class="el" href="namespace_pechincha_market.html">PechinchaMarket</a></li><li class="navelem"><a class="el" href="class_pechincha_market_1_1_scheduled_jobs.html">ScheduledJobs</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="class_pechincha_market_1_1_services_1_1_email_sender-members.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">PechinchaMarket.Services.EmailSender Class Reference</div></div>
+<a href="class_pechincha_market_1_1_scheduled_jobs-members.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">PechinchaMarket.ScheduledJobs Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+<div class="dynheader">
+Inheritance diagram for PechinchaMarket.ScheduledJobs:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="class_pechincha_market_1_1_scheduled_jobs.png" alt=""/>
+ </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa6f99c7dfe82eef7a18754f9b44652d7" id="r_aa6f99c7dfe82eef7a18754f9b44652d7"><td class="memItemLeft" align="right" valign="top"><a id="aa6f99c7dfe82eef7a18754f9b44652d7" name="aa6f99c7dfe82eef7a18754f9b44652d7"></a>
-&#160;</td><td class="memItemRight" valign="bottom"><b>EmailSender</b> (IConfiguration config=null)</td></tr>
-<tr class="separator:aa6f99c7dfe82eef7a18754f9b44652d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5aa466aad32228413fd9410d9dc26ec" id="r_aa5aa466aad32228413fd9410d9dc26ec"><td class="memItemLeft" align="right" valign="top"><a id="aa5aa466aad32228413fd9410d9dc26ec" name="aa5aa466aad32228413fd9410d9dc26ec"></a>
-async Task&#160;</td><td class="memItemRight" valign="bottom"><b>SendEmail</b> (string subject, string toEmail, string username, string message)</td></tr>
-<tr class="separator:aa5aa466aad32228413fd9410d9dc26ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a062fecc254778ed83f199a173ecf603c" id="r_a062fecc254778ed83f199a173ecf603c"><td class="memItemLeft" align="right" valign="top"><a id="a062fecc254778ed83f199a173ecf603c" name="a062fecc254778ed83f199a173ecf603c"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>ScheduledJobs</b> (<a class="el" href="class_pechincha_market_1_1_areas_1_1_identity_1_1_data_1_1_d_b_pechincha_market_context.html">DBPechinchaMarketContext</a> context)</td></tr>
+<tr class="separator:a062fecc254778ed83f199a173ecf603c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72546b1d9b0f4220259fb4be29ef2042" id="r_a72546b1d9b0f4220259fb4be29ef2042"><td class="memItemLeft" align="right" valign="top">Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a72546b1d9b0f4220259fb4be29ef2042">Execute</a> (IJobExecutionContext context)</td></tr>
+<tr class="memdesc:a72546b1d9b0f4220259fb4be29ef2042"><td class="mdescLeft">&#160;</td><td class="mdescRight">Função Execute - Corre especificamente á meia noite todos os dias para apagar descontos da DB se estes tiverem acabado.  <br /></td></tr>
+<tr class="separator:a72546b1d9b0f4220259fb4be29ef2042"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a72546b1d9b0f4220259fb4be29ef2042" name="a72546b1d9b0f4220259fb4be29ef2042"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a72546b1d9b0f4220259fb4be29ef2042">&#9670;&#160;</a></span>Execute()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task PechinchaMarket.ScheduledJobs.Execute </td>
+          <td>(</td>
+          <td class="paramtype">IJobExecutionContext</td>          <td class="paramname"><span class="paramname"><em>context</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Função Execute - Corre especificamente á meia noite todos os dias para apagar descontos da DB se estes tiverem acabado. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">context</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>PechinchaMarket/PechinchaMarket/Services/<b>EmailSender.cs</b></li>
+<li>PechinchaMarket/PechinchaMarket/<b>ScheduledJobs.cs</b></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

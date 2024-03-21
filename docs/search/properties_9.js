@@ -4,10 +4,11 @@ var searchData=
   ['preferenceslabels_1',['PreferencesLabels',['../class_pechincha_market_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model.html#a9b45cc624dd28fc5fff14ebd981e122e',1,'PechinchaMarket::Areas::Identity::Pages::Account::Manage::IndexModel']]],
   ['preferencias_2',['Preferencias',['../class_pechincha_market_1_1_models_1_1_cliente.html#a8422608e160b233873b489aaa6df5cba',1,'PechinchaMarket::Models::Cliente']]],
   ['price_3',['Price',['../class_pechincha_market_1_1_models_1_1_produto_loja.html#a846f6d1b1d71faeeed17e8fb20e09931',1,'PechinchaMarket::Models::ProdutoLoja']]],
-  ['prodcategoria_4',['ProdCategoria',['../class_pechincha_market_1_1_models_1_1_produto.html#afa2db355a76cbc0ff6d8bd9604013ce9',1,'PechinchaMarket::Models::Produto']]],
-  ['prodestado_5',['ProdEstado',['../class_pechincha_market_1_1_models_1_1_produto.html#a03f5c45f3fda7bca390889fba767aeae',1,'PechinchaMarket::Models::Produto']]],
-  ['produto_6',['Produto',['../class_pechincha_market_1_1_models_1_1_produto_loja.html#a5514692fd5a2c7c8fa721c2ea0cec448',1,'PechinchaMarket::Models::ProdutoLoja']]],
-  ['produtoloja_7',['ProdutoLoja',['../class_pechincha_market_1_1_models_1_1_detalhe_lista_prod.html#a2c6383bde11d0580f6b5cf02d0fc7c6b',1,'PechinchaMarket::Models::DetalheListaProd']]],
-  ['produtolojas_8',['ProdutoLojas',['../class_pechincha_market_1_1_models_1_1_produto.html#a64c77e0bb558c5820e321732d42079fa',1,'PechinchaMarket::Models::Produto']]],
-  ['providerdisplayname_9',['ProviderDisplayName',['../class_pechincha_market_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_external_login_model.html#a15bdd0067e3be2fd63de1ea4624184c0',1,'PechinchaMarket::Areas::Identity::Pages::Account::ExternalLoginModel']]]
+  ['privilegio_4',['Privilegio',['../class_pechincha_market_1_1_models_1_1_agrupamento_membro.html#aa621d71446c62a172d20390dee7e12fb',1,'PechinchaMarket::Models::AgrupamentoMembro']]],
+  ['prodcategoria_5',['ProdCategoria',['../class_pechincha_market_1_1_models_1_1_produto.html#afa2db355a76cbc0ff6d8bd9604013ce9',1,'PechinchaMarket::Models::Produto']]],
+  ['prodestado_6',['ProdEstado',['../class_pechincha_market_1_1_models_1_1_produto.html#a03f5c45f3fda7bca390889fba767aeae',1,'PechinchaMarket::Models::Produto']]],
+  ['produto_7',['Produto',['../class_pechincha_market_1_1_models_1_1_produto_loja.html#a5514692fd5a2c7c8fa721c2ea0cec448',1,'PechinchaMarket::Models::ProdutoLoja']]],
+  ['produtoloja_8',['ProdutoLoja',['../class_pechincha_market_1_1_models_1_1_detalhe_lista_prod.html#a2c6383bde11d0580f6b5cf02d0fc7c6b',1,'PechinchaMarket::Models::DetalheListaProd']]],
+  ['produtolojas_9',['ProdutoLojas',['../class_pechincha_market_1_1_models_1_1_produto.html#a64c77e0bb558c5820e321732d42079fa',1,'PechinchaMarket::Models::Produto']]],
+  ['providerdisplayname_10',['ProviderDisplayName',['../class_pechincha_market_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_external_login_model.html#a15bdd0067e3be2fd63de1ea4624184c0',1,'PechinchaMarket::Areas::Identity::Pages::Account::ExternalLoginModel']]]
 ];
