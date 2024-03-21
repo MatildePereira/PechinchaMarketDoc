@@ -10,5 +10,5 @@ var searchData=
   ['displayconfirmaccountlink_7',['DisplayConfirmAccountLink',['../class_pechincha_market_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_confirmation_model.html#a5851c3e68c81bbe7f962deb252bdc349',1,'PechinchaMarket::Areas::Identity::Pages::Account::RegisterConfirmationModel']]],
   ['distrito_8',['Distrito',['../namespace_pechincha_market_1_1_models.html#a520342ddbb9c5c90e88b674515fa8949',1,'PechinchaMarket::Models']]],
   ['document_9',['document',['../class_pechincha_market_1_1_models_1_1_comerciante.html#af890b697624977b60e81184191b99b9a',1,'PechinchaMarket::Models::Comerciante']]],
-  ['down_10',['Down',['../class_pechincha_market_1_1_migrations_1_1initial.html#a7d4f7727996510cf7cf8194d12b35a3f',1,'PechinchaMarket::Migrations::initial']]]
+  ['down_10',['Down',['../class_pechincha_market_1_1_migrations_1_1_initial.html#a389c2c17e181e5f84797273cd3a1a2f3',1,'PechinchaMarket::Migrations::Initial']]]
 ];
