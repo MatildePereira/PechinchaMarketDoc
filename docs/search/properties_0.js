@@ -1,5 +1,6 @@
 var searchData=
 [
   ['address_0',['Address',['../class_pechincha_market_1_1_models_1_1_loja.html#a78b9bebd30c961121c1a181c5c97cb0e',1,'PechinchaMarket::Models::Loja']]],
-  ['agrupamento_1',['Agrupamento',['../class_pechincha_market_1_1_models_1_1_agrupamento_membro.html#a2ff7db471d5fefff6f83005337d8d0db',1,'PechinchaMarket::Models::AgrupamentoMembro']]]
+  ['agrupamento_1',['Agrupamento',['../class_pechincha_market_1_1_models_1_1_agrupamento_membro.html#a2ff7db471d5fefff6f83005337d8d0db',1,'PechinchaMarket::Models::AgrupamentoMembro']]],
+  ['agrupamentos_2',['agrupamentos',['../class_pechincha_market_1_1_models_1_1_lista_produtos.html#a177d929c1818781b8857904aa610aee5',1,'PechinchaMarket::Models::ListaProdutos']]]
 ];

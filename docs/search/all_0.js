@@ -7,6 +7,10 @@ var searchData=
   ['addtolist_4',['AddToList',['../class_pechincha_market_1_1_controllers_1_1_search_controller.html#aefacaf9a0dae480d5757140d5d857fa1',1,'PechinchaMarket::Controllers::SearchController']]],
   ['agrupamento_5',['Agrupamento',['../class_pechincha_market_1_1_models_1_1_agrupamento.html',1,'PechinchaMarket.Models.Agrupamento'],['../class_pechincha_market_1_1_models_1_1_agrupamento_membro.html#a2ff7db471d5fefff6f83005337d8d0db',1,'PechinchaMarket.Models.AgrupamentoMembro.Agrupamento']]],
   ['agrupamentomembro_6',['AgrupamentoMembro',['../class_pechincha_market_1_1_models_1_1_agrupamento_membro.html',1,'PechinchaMarket::Models']]],
-  ['agrupamentoscontroller_7',['AgrupamentosController',['../class_pechincha_market_1_1_controllers_1_1_agrupamentos_controller.html',1,'PechinchaMarket::Controllers']]],
-  ['authenticationcontroller_8',['AuthenticationController',['../class_pechincha_market_1_1_controllers_1_1_authentication_controller.html',1,'PechinchaMarket::Controllers']]]
+  ['agrupamentos_7',['agrupamentos',['../class_pechincha_market_1_1_models_1_1_lista_produtos.html#a177d929c1818781b8857904aa610aee5',1,'PechinchaMarket::Models::ListaProdutos']]],
+  ['agrupamentoscontroller_8',['AgrupamentosController',['../class_pechincha_market_1_1_controllers_1_1_agrupamentos_controller.html',1,'PechinchaMarket::Controllers']]],
+  ['apikey_9',['ApiKey',['../class_pechincha_market_1_1_models_1_1_api_key.html',1,'PechinchaMarket::Models']]],
+  ['aproveconfirmed_10',['AproveConfirmed',['../class_pechincha_market_1_1_controllers_1_1_manager_controller.html#a2afdc048be3ebcf272bec76568421b8f',1,'PechinchaMarket::Controllers::ManagerController']]],
+  ['aproveconfirmedproduct_11',['AproveConfirmedProduct',['../class_pechincha_market_1_1_controllers_1_1_manager_controller.html#a259a941ae5b97a42170f6c9adf78dfea',1,'PechinchaMarket::Controllers::ManagerController']]],
+  ['authenticationcontroller_12',['AuthenticationController',['../class_pechincha_market_1_1_controllers_1_1_authentication_controller.html',1,'PechinchaMarket::Controllers']]]
 ];

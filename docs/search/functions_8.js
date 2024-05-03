@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['search_0',['Search',['../class_pechincha_market_1_1_controllers_1_1_search_controller.html#a26e4d204f0fdce3094a69ef7a723abab',1,'PechinchaMarket::Controllers::SearchController']]],
-  ['searchresults_1',['SearchResults',['../class_pechincha_market_1_1_controllers_1_1_search_controller.html#aac84715471af367be001c68be5e55369',1,'PechinchaMarket::Controllers::SearchController']]],
-  ['showdiscount_2',['ShowDiscount',['../class_pechincha_market_1_1_controllers_1_1_search_controller.html#a94eb3510e54234ef1b7d39e135365786',1,'PechinchaMarket::Controllers::SearchController']]],
-  ['similarproducts_3',['SimilarProducts',['../class_pechincha_market_1_1_controllers_1_1_search_controller.html#a2768ed5169fb5e302df94e5408eadacc',1,'PechinchaMarket::Controllers::SearchController']]]
+  ['removelist_0',['RemoveList',['../class_pechincha_market_1_1_controllers_1_1_agrupamentos_controller.html#a153b0fd1572d7a3c1665db762f4076b6',1,'PechinchaMarket::Controllers::AgrupamentosController']]],
+  ['removelists_1',['RemoveLists',['../class_pechincha_market_1_1_controllers_1_1_agrupamentos_controller.html#acacde26150a64263c768bdb5818833ab',1,'PechinchaMarket::Controllers::AgrupamentosController']]],
+  ['removemember_2',['RemoveMember',['../class_pechincha_market_1_1_controllers_1_1_agrupamentos_controller.html#a382f7e9b97f4cebe4528043cbe1d394d',1,'PechinchaMarket::Controllers::AgrupamentosController']]],
+  ['removemembers_3',['RemoveMembers',['../class_pechincha_market_1_1_controllers_1_1_agrupamentos_controller.html#ac9625174b07ad6ab831786ff5d05080b',1,'PechinchaMarket::Controllers::AgrupamentosController']]],
+  ['reproveconfirmed_4',['ReproveConfirmed',['../class_pechincha_market_1_1_controllers_1_1_manager_controller.html#a1256663abba5f1c769abb4ba9cfb78fc',1,'PechinchaMarket::Controllers::ManagerController']]],
+  ['reproveconfirmedproduct_5',['ReproveConfirmedProduct',['../class_pechincha_market_1_1_controllers_1_1_manager_controller.html#a7767501741c77472d734e3d7119aa8d8',1,'PechinchaMarket::Controllers::ManagerController']]]
 ];
